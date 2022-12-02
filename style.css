@@ -1,0 +1,17 @@
+.container{
+    background-color: rgba(248, 248, 97, 0.51);
+
+}
+.title{
+background: #aae7cd;
+}
+span{
+    color: blue;
+}
+#ar{
+    height: 60px;
+  width: 370px;
+}
+#as{
+    padding: 0px 40px 40px 0px;
+}
